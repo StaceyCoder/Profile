@@ -3,18 +3,9 @@
   font-family: "Quicksand", sans-serif;
 }
 
-/* .BG {
-  background-image: linear-gradient(white, grey);
-} */
-
 hr {
   width: 75%;
 }
-
-/* div {
-margin-bottom: 100px;
-margin-top: 100px;
-} */
 
 a {
   text-decoration: none;
@@ -22,22 +13,6 @@ a {
 }
 
 /* ---- Heading ---- */
-
-/* .heading button {
-  float: right;
-  position: relative;
-  background: purple;
-  color: white;
-  border: 10px solid purple;
-}
-
-
-.heading li {
-  list-style-type: none;
-  display: inline-block;
-  margin: 5%;
-
-} */
 
 svg {
   margin-top: 10px;
@@ -67,12 +42,6 @@ h1 {
   position: absolute;
   /* font-size: 300px; */
 }
-
-
-
-/* .Profile img {
-  border-radius: 50%;
-} */
 
 h3 {
   font-size: 25px;
@@ -108,26 +77,6 @@ i {
   align-items: center;
 }
 
-
-/* .Contact {
-  margin: 3%;
-  padding: 3%;
-}
-
-.Contact h3 {
-  font-size: 35px;
-}
-
-input {
-  width: 30%;
-}
-
-.Contact button {
-  background-color: purple;
-  width: 20%;
-  margin: 2%;
-  padding: 2%;
-} */
 
 
 /* --- Footer --- */
